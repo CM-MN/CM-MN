@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:CM-MN?theme=rule34">
 
-<font face="Times New Roman"> Xinyuanzheng</font>
+#Xinyuanzheng
 
 无限进步
 
