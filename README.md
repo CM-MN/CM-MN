@@ -22,10 +22,7 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=CM-MN&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
 
 ### Github 活跃度
 
