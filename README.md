@@ -1,5 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:CM-MN?theme=rule34">
-
+![Modern C++ template][github-sub-title:img]
 # Xinyuanzheng
 
 无限进步
