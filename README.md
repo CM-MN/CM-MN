@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xinyuanzheng</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cm-mn&label=Profile%20views&color=0e75b6&style=flat" alt="cm-mn" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:1622206904@qq.com</h3>
 <p align="left">
 </p>
 
@@ -15,7 +15,3 @@
 
 
 
-
-
-
-<img align="right" src="https://count.getloli.com/get/@:CM-MN?theme=rule34">
